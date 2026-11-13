@@ -27,7 +27,7 @@ I'd rather ship a solution I can explain than one that merely works. That means 
 ---
 
 ### Skills
- 
+
 <table>
 <tr>
 <td><b>Languages &amp; Tools</b></td>
@@ -79,8 +79,8 @@ I'd rather ship a solution I can explain than one that merely works. That means 
 <tr>
 <td><b>Spoken</b></td>
 <td>
-<img src="https://img.shields.io/badge/Ukrainian-Native-555555?style=flat-square&labelColor=E356A6"/>
-<img src="https://img.shields.io/badge/English-Professional-555555?style=flat-square&labelColor=E356A6"/>
+<img src="https://img.shields.io/badge/Ukrainian-Native-555555?style=flat-square&labelColor=2DA44E"/>
+<img src="https://img.shields.io/badge/English-Professional-555555?style=flat-square&labelColor=2DA44E"/>
 </td>
 </tr>
 </table>
@@ -92,7 +92,7 @@ I'd rather ship a solution I can explain than one that merely works. That means 
 **Pricing Optimisation — Move Intermodal** · *Group project · Sep 2026 – present*<br/>
 Building a pricing decision framework: customer segmentation tied to profitability, lane-level demand forecasting linked to train capacity, and price-sensitivity estimates drawn from natural events rather than controlled experiments.
 
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Time%20Series-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/Snowflake-0D9488?style=flat-square&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Time%20Series-0E9F8E?style=flat-square"/>
 
 ---
 
@@ -110,14 +110,14 @@ Building a pricing decision framework: customer segmentation tied to profitabili
 <p>I owned the database and backend: the PostgreSQL schema and migrations, and the FastAPI query layer behind prediction storage, the correction loop and the monitoring metrics. I also built the CLI, ran the cost analysis and led documentation.</p>
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-1E88E5?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-1976D2?style=flat-square&logo=pytest&logoColor=white"/>
 </p>
 
 </td>
@@ -133,10 +133,10 @@ Building a pricing decision framework: customer segmentation tied to profitabili
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--image-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyBullet-6e7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gymnasium-6e7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stable--Baselines3-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--image-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyBullet-7B4FD6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gymnasium-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stable--Baselines3-F59E0B?style=flat-square"/>
 <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"/>
 </p>
 
@@ -155,9 +155,9 @@ Building a pricing decision framework: customer segmentation tied to profitabili
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whisper-6e7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-5C3EE8?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Whisper-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/spaCy-7B4FD6?style=flat-square&logo=spacy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
@@ -173,9 +173,9 @@ Building a pricing decision framework: customer segmentation tied to profitabili
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-E8590C?style=flat-square"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-0F766E?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 </td>
@@ -189,9 +189,9 @@ Building a pricing decision framework: customer segmentation tied to profitabili
 <p>A Power BI dashboard auditing PIN terminal deployment and check records across 60 store locations. It surfaced data faults (records timestamped before their own events, serial numbers duplicated across locations, incomplete daily coverage) alongside behavioural patterns, and closed with recommendations on deployment protocol and terminal assignment.</p>
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
-<img src="https://img.shields.io/badge/DAX-6e7681?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Quality-6e7681?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Quality-0D9488?style=flat-square"/>
 </p>
 
 </td>
