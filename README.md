@@ -179,18 +179,19 @@ Building a pricing decision framework: customer segmentation tied to profitabili
 </p>
 
 </td>
-</tr>
 <tr>
 <td colspan="2" valign="top">
 
 <h4>IKEA PIN Terminal Data Audit</h4>
 <sub><i>Individual project · Built for IKEA · Nov 2024</i></sub>
 
-<p>A Power BI dashboard auditing PIN terminal deployment and check records across 60 store locations. It surfaced data faults (records timestamped before their own events, serial numbers duplicated across locations, incomplete daily coverage) alongside behavioural patterns, and closed with recommendations on deployment protocol and terminal assignment.</p>
+<p>An interactive Power BI dashboard for IKEA's safety and prevention coordinator, auditing PIN terminal deployment and check records across 60 store locations. I transformed and structured the raw data in Power Query, then designed the dashboard around easy navigation so non-technical users could explore it themselves.</p>
+
+<p>The audit surfaced data faults (records timestamped before their own events, serial numbers duplicated across locations, incomplete daily coverage) alongside behavioural patterns, and closed with recommendations on deployment protocol and terminal assignment. <b>Recommended by the client on LinkedIn.</b></p>
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-14B8A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/DAX-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20Query-0F766E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Quality-0D9488?style=flat-square"/>
 </p>
 
