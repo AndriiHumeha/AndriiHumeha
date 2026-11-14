@@ -6,9 +6,9 @@
 Machine learning systems, from model to deployment · Studying Law in parallel
 
 
-[![Email](https://img.shields.io/badge/Email-humehaandrii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humehaandrii@gmail.com)
+[![Email](https://img.shields.io/badge/Email-humehaandrii%40gmail.com-E22F2C?style=flat-square&logo=gmail&logoColor=white)](mailto:humehaandrii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrii%20Humeha-0A66C2?style=flat-square)](https://www.linkedin.com/in/andrii-humeha-1b44a9327/)
-![Location](https://img.shields.io/badge/Location-Breda%2C%20Netherlands-6e7681?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Breda%2C%20Netherlands-EC7C22?style=flat-square)
 ![Average](https://img.shields.io/badge/Average-9.35%2F10-2ea44f?style=flat-square)
 
 </div>
