@@ -5,7 +5,6 @@
 **Data Science & AI student at Breda University of Applied Sciences**<br/>
 Machine learning systems, from model to deployment · Studying Law in parallel
 
-<br/>
 
 [![Email](https://img.shields.io/badge/Email-humehaandrii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humehaandrii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrii%20Humeha-0A66C2?style=flat-square)](https://www.linkedin.com/in/andrii-humeha-1b44a9327/)
